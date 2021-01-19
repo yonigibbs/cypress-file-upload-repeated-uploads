@@ -1,5 +1,5 @@
 # Overview
-This repository provides an example to reproduce this issue: https://github.com/abramenal/cypress-file-upload/issues/TODO
+This repository provides an example to reproduce this issue: https://github.com/abramenal/cypress-file-upload/issues/264
 
 Namely, version 5.0.0 of [cypress-file-upload](https://github.com/abramenal/cypress-file-upload) causes an issue: if the
 test simulates a user uploading one file then another (to replace the first one), on the second upload the system thinks
